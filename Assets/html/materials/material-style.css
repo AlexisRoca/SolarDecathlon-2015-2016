@@ -1,0 +1,33 @@
+body
+{
+    max-width: 480px;
+    max-height: 600px;
+    width: auto;
+    height: auto;
+}
+
+table
+{
+    width: 100%;
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+p, li
+{
+    font-size: 30px;
+}
+
+#material-name
+{
+    text-align: center;
+}
+
+#material-img
+{
+    width: 200px;
+    height: 200px;
+}
